@@ -7,8 +7,11 @@
 
 ## :rocket: For Full Project Testing
 
+* Right Click on Index.HTML and click open with live server.
 
 ## :small_red_triangle_down: Prerequisite
+
+* Install Live Server on Visual Code
 
 ### PIP
 
